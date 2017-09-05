@@ -1,4 +1,4 @@
 # hello-next
 
 ### Next lesson
-https://learnnextjs.com/basics/create-dynamic-pages
+https://learnnextjs.com/excel/lazy-loading-modules
